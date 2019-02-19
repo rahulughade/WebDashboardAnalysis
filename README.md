@@ -1,7 +1,7 @@
 
 # Web Visualization
 
-#### The visualization dashboard has can be access at below URL.
+#### The visualization dashboard can be access at below URL.
 
 https://rahulughade.github.io/WebDashboardAnalysis/
 
