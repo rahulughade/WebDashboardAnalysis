@@ -40,3 +40,9 @@ h3 {
     height: 30px;
 
 } */
+
+/* Adding media queries to show the drop-down, and hide the navbar when the screen is smaller than 480 pixels */
+@media (max-width: 480px) {
+    .navbar li {
+      padding: 10px;
+    }
